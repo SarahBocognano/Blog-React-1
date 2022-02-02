@@ -1,0 +1,46 @@
+.AboutMe {
+    background-color: beige;
+    position:relative;
+    color:white;
+    padding:15px;
+    padding-right: 40px;
+}
+
+input {
+    border-radius:20px;
+    border:1px solid black;
+}
+
+.form {
+}
+
+.form1 {
+    display:flex;
+}
+
+.inputMessage {
+    width:340px;
+    height:70px;
+}
+
+.aPropos {
+    margin-top:25px;
+    background-color:rgb(187, 129, 111);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.leTitre {
+    font-size:40px;
+    text-align: center;
+}
+
+.ButtonSub {
+    color: black;
+    background-color: beige;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 25%;
+    margin-top:10px;
+    position:relative;
+}

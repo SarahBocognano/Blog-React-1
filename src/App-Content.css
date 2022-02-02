@@ -1,0 +1,36 @@
+.App-container {
+    display:flex;
+    justify-content: center;
+    position:relative;
+    padding-left:20px;
+    background-color: beige;
+}
+
+.image {
+    display:flex;
+    flex-wrap: nowrap;
+    width: 1098px;
+}
+
+.img1 {
+    margin:5px;
+    width: 345px;
+    margin-left: 0;
+}
+
+.img2 {
+    margin:5px;
+    width: 345px;
+}
+
+.img3 {
+    margin:5px;
+    width: 345px;
+}
+
+.h1Content {
+    position: absolute;
+    bottom:450px;
+    color:beige;
+    
+}
